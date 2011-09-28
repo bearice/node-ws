@@ -1,0 +1,10 @@
+{
+    "name": "node-ws"
+  , "version": "0.0.1"
+  , "description": "Yet another dirty Web Socket implementation"
+  , "keywords": []
+  , "author": "Bearice <bearice@gmail.com>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+}
