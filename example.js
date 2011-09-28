@@ -1,4 +1,7 @@
-var http = require('http'),ws=require('./websocket'),url=require('url');
+var http = require('http'),
+    ws=require('websocket'),
+    url=require('url');
+
 var server = http.createServer(function(req,resp){
     resp.writeHeader(404);
     resp.end();   
