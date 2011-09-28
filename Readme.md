@@ -3,6 +3,8 @@
 
   Yet another dirty Web Socket implementation
 
+  Note: works ONLY with node 0.5.x or later!
+
 ## License 
 
 (The MIT License)
